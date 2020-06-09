@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\bin\Debug\JUMP_BALL.exe.config
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\bin\Debug\JUMP_BALL.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\bin\Debug\JUMP_BALL.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\JUMP_BALL\obj\Debug\JUMP_BALL.MaimForm.resources
